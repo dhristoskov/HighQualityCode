@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\bin\Debug\ReformatingMyCode.exe.config
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\bin\Debug\ReformatingMyCode.exe
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\bin\Debug\ReformatingMyCode.pdb
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\obj\Debug\ReformatingMyCode.exe
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\obj\Debug\ReformatingMyCode.pdb
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\ReformatingMyCode\obj\Debug\ReformatingMyCode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\bin\Debug\Events.exe.config
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\bin\Debug\Events.exe
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\bin\Debug\Events.pdb
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\bin\Debug\PowerCollections.dll
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\bin\Debug\PowerCollections.xml
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\obj\Debug\Events.exe
+D:\Programming Apps&Projects\VSProjects\CodeFormatting\Events\obj\Debug\Events.pdb
