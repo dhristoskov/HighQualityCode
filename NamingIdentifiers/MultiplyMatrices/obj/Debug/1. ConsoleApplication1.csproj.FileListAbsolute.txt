@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\1. ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

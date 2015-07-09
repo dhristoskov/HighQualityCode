@@ -1,0 +1,12 @@
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\bin\Debug\ProductCatalog.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\bin\Debug\ProductCatalog.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\bin\Debug\ProductCatalog.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\obj\Debug\ProductCatalog.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Orders\obj\Debug\ProductCatalog.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\obj\Debug\ProductCatalog.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\obj\Debug\ProductCatalog.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\bin\Debug\ProductCatalog.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\bin\Debug\ProductCatalog.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ProductCatalog\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\MultiplyMatrices.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\MultiplyMatrices.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\MultiplyMatrices.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\bin\Debug\MultiplyMatrices.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\MultiplyMatrices.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\ConsoleApplication1\obj\Debug\MultiplyMatrices.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\bin\Debug\MultiplyMatrices.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\obj\Debug\MultiplyMatrices.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\obj\Debug\MultiplyMatrices.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\bin\Debug\MultiplyMatrices.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\bin\Debug\MultiplyMatrices.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\MultiplyMatrices\obj\Debug\MultiplyMatrices.csprojResolveAssemblyReference.cache

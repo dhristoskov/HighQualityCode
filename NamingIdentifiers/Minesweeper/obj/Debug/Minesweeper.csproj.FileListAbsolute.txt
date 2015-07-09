@@ -1,0 +1,12 @@
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\bin\Debug\Minesweeper.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\bin\Debug\Minesweeper.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\bin\Debug\Minesweeper.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\obj\Debug\Minesweeper.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\obj\Debug\Minesweeper.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Application2\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Programming Apps&Projects\VSProjects\NamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
