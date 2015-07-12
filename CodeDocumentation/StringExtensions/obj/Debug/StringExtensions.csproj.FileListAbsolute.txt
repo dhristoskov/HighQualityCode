@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\bin\Debug\StringExtensions.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\bin\Debug\StringExtensions.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\bin\Debug\StringExtensions.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\obj\Debug\StringExtensions.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeDocumentation\CodeDocumentation\StringExtensions\obj\Debug\StringExtensions.pdb
