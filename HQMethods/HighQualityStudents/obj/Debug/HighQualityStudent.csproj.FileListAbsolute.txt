@@ -1,0 +1,15 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\bin\Debug\HighQualityStudent.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\bin\Debug\HighQualityStudent.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\bin\Debug\HighQualityStudent.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\obj\Debug\HighQualityStudent.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\obj\Debug\HighQualityStudent.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HighQualityStudent\obj\Debug\HighQualityStudent.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\bin\Debug\HighQualityStudent.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\obj\Debug\HighQualityStudent.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\obj\Debug\HighQualityStudent.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\bin\Debug\HighQualityStudent.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\obj\Debug\HighQualityStudent.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\obj\Debug\HighQualityStudent.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\bin\Debug\HighQualityStudent.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\bin\Debug\HighQualityStudent.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityStudents\obj\Debug\HighQualityStudent.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\bin\Debug\HighQualityMethods.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\bin\Debug\HighQualityMethods.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\bin\Debug\HighQualityMethods.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\obj\Debug\HighQualityMethods.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\obj\Debug\HighQualityMethods.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\HighQualityMethods\obj\Debug\HighQualityMethods.pdb

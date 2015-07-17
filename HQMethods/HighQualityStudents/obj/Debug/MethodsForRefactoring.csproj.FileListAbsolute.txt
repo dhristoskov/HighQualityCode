@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\bin\Debug\Methods.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\bin\Debug\Methods.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\obj\Debug\MethodsForRefactoring.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\obj\Debug\Methods.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQMethods\obj\Debug\Methods.pdb
