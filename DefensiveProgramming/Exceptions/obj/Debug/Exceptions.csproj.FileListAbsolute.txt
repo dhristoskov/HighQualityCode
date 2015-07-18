@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Exceptions\bin\Debug\Exceptions.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Exceptions\bin\Debug\Exceptions.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Exceptions\obj\Debug\Exceptions.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Exceptions\obj\Debug\Exceptions.pdb

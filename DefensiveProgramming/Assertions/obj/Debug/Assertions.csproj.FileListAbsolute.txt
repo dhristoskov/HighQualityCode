@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Assertions\bin\Debug\Assertions-Homework.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Assertions\obj\Debug\Assertions-Homework.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\DefensiveProgramming\Assertions\obj\Debug\Assertions-Homework.pdb

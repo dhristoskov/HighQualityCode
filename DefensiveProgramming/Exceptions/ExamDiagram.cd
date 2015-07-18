@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exceptions.Exams.CSharpExam" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Exams\CSharpExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.Exams.Exam" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exams\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.ExamResult" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAEAQAAAAAgAAAAAAAAAAAAAAAAAAAAQEEIAA=</HashCode>
+      <FileName>ExamResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.ExamTest" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ExamTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.Exams.SimpleMathExam" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAhAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAQQ=</HashCode>
+      <FileName>Exams\SimpleMathExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.Student" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAAAYAAAAEAAAAAABAAAAAAAAAAAAAkAAg=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptions.Utils" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
