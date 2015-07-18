@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UtilitiesMain.cs" />
+    <Compile Include="UtilsMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilities\NumberUtilities.cs" />
-    <Compile Include="Utilities\PolygonUtilities.cs" />
+    <Compile Include="Utils\NumberUtil.cs" />
+    <Compile Include="Utils\PolygonUtil.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
