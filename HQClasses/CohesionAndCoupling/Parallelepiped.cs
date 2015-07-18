@@ -1,5 +1,5 @@
 ﻿using System;
-using CohesionAndCoupling.Utilities;
+using CohesionAndCoupling.Utils;
 
 namespace CohesionAndCoupling
 {
@@ -76,7 +76,7 @@ namespace CohesionAndCoupling
         /// <returns>floating - point value</returns>
         public double CalculateDiagonalXyz()
         {
-            double distance = PolygonUtils.CalculateDistanceIn3D(0, 0, 0, Width, Height, Depth);
+            double distance = PolygonUtil.CalculateDistanceIn3D(0, 0, 0, Width, Height, Depth);
             return distance;
         }
 
@@ -86,7 +86,7 @@ namespace CohesionAndCoupling
         /// <returns>floating - point value</returns>
         public double CalculateDiagonalXy()
         {
-            double distance = PolygonUtils.CalculateDistanceIn2D(0, 0, Width, Height);
+            double distance = PolygonUtil.CalculateDistanceIn2D(0, 0, Width, Height);
             return distance;
         }
 
@@ -96,7 +96,7 @@ namespace CohesionAndCoupling
         /// <returns>floating - point value</returns>
         public double CalculateDiagonalXz()
         {
-            double distance = PolygonUtils.CalculateDistanceIn2D(0, 0, Width, Depth);
+            double distance = PolygonUtil.CalculateDistanceIn2D(0, 0, Width, Depth);
             return distance;
         }
 
@@ -106,7 +106,7 @@ namespace CohesionAndCoupling
         /// <returns>floating - point value</returns>
         public double CalculateDiagonalYz()
         {
-            double distance = PolygonUtils.CalculateDistanceIn2D(0, 0, Height, Depth);
+            double distance = PolygonUtil.CalculateDistanceIn2D(0, 0, Height, Depth);
             return distance;
         }
 

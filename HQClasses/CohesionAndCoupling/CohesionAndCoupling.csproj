@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Utilities\FileUtils.cs" />
-    <Compile Include="Utilities\PolygonUtils.cs" />
+    <Compile Include="Utils\FileUtil.cs" />
+    <Compile Include="Utils\PolygonUtil.cs" />
     <Compile Include="UtilsExamples.cs" />
     <Compile Include="Parallelepiped.cs" />
   </ItemGroup>
