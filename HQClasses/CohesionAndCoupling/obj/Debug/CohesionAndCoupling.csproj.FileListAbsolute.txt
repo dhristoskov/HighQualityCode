@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\CohesionAndCoupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\CohesionAndCoupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\CohesionAndCoupling\obj\Debug\CohesionAndCoupling.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\CohesionAndCoupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\CohesionAndCoupling\obj\Debug\Cohesion-and-Coupling.pdb

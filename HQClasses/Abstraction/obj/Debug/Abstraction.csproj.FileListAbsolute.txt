@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\Abstraction\bin\Debug\Abstraction.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\Abstraction\bin\Debug\Abstraction.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\Abstraction\obj\Debug\Abstraction.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\Abstraction\obj\Debug\Abstraction.pdb

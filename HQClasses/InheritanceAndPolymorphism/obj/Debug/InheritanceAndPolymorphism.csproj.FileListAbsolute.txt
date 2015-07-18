@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\InheritanceAndPolymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\InheritanceAndPolymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\InheritanceAndPolymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\HQClasses\InheritanceAndPolymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
