@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\bin\Debug\MathOperations.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\bin\Debug\MathOperations.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\bin\Debug\MathOperations.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\obj\Debug\MathOperations.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\MathOperations\obj\Debug\MathOperations.pdb

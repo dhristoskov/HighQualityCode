@@ -1,0 +1,12 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\CodeTuningOptimization\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
