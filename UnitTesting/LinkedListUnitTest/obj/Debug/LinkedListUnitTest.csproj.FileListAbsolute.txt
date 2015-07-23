@@ -1,0 +1,8 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\bin\Debug\LinkedListUnitTest.dll
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\bin\Debug\LinkedListUnitTest.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\bin\Debug\CustomLinkedList.dll
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\bin\Debug\CustomLinkedList.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\obj\Debug\LinkedListUnitTest.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\obj\Debug\LinkedListUnitTest.dll
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\UnitTesting\LinkedListUnitTest\obj\Debug\LinkedListUnitTest.pdb
