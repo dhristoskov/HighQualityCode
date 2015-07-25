@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\bin\Debug\PrinciplesSoftwareDesign.exe.config
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\bin\Debug\PrinciplesSoftwareDesign.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\bin\Debug\PrinciplesSoftwareDesign.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\obj\Debug\PrinciplesSoftwareDesign.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\obj\Debug\PrinciplesSoftwareDesign.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\SOLIDPrinciples\PrinciplesSoftwareDesign\obj\Debug\PrinciplesSoftwareDesign.pdb
