@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\Matrica\bin\Debug\Matrix.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\Matrica\bin\Debug\Matrix.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\Matrica\obj\x86\Debug\Matrix.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\Matrica\obj\x86\Debug\Matrix.pdb
