@@ -1,0 +1,5 @@
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\WalkInMatrix\obj\x86\Debug\Matrix.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\WalkInMatrix\obj\x86\Debug\Matrix.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\WalkInMatrix\bin\Debug\Matrix.exe
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\WalkInMatrix\bin\Debug\Matrix.pdb
+D:\Programming Apps&Projects\VSProjects\HQC_Homework\Refactoring\WalkInMatrix\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
